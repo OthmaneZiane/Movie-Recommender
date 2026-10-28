@@ -4,7 +4,7 @@
 | | |
 |---|---|
 | **Auteurs** | ZIANE Othmane & HASKA Aymen — projet réalisé en binôme |
-| **Client / évaluateur** | Professeur (projet académique) |
+| **Client / évaluateur** | Professeur Mme.OUNACER SOUMIA (projet académique) |
 | **Date** | 28 octobre 2026 |
 | **Version** | v0.1 — brouillon à valider |
 | **Durée** | 8 semaines |
