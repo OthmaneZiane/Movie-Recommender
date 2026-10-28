@@ -3,7 +3,7 @@
 
 | | |
 |---|---|
-| **Auteurs** | [Ton nom] & [Nom de ton ami] — projet réalisé en binôme |
+| **Auteurs** | [ZIANE Othmane] & [HASKA Aymen] — projet réalisé en binôme |
 | **Client / évaluateur** | Professeur (projet académique) |
 | **Date** | 28 octobre 2026 |
 | **Version** | v0.1 — brouillon à valider |
