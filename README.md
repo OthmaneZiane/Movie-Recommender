@@ -57,7 +57,7 @@ Python · pandas · numpy · scikit-learn · scikit-surprise · Streamlit · Pow
 MovieLens 100K — <https://grouplens.org/datasets/movielens/100k-version/>
 
 ## 👥 Auteurs
-[Ton nom] & [Nom de ton ami] — Projet académique
+ZIANE Othmane & HASKA Aymane — Projet académique
 
 ---
 *Suivi de version : v0.1 — document de travail.*
